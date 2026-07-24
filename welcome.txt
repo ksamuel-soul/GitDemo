@@ -1,2 +1,3 @@
 Welcome to Git
+This line was added from GitHub.
 		-Created by: Samuel Ebenezer
